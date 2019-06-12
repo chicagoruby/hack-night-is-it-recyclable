@@ -1,0 +1,1164 @@
+{
+  "data": [
+    {
+      "Material": "Aerosol cans",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Must be empty"
+    },
+    {
+      "Material": "Aluminum",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Accepted aluminum includes cans, clean tin foil, pie tins."
+    },
+    {
+      "Material": "Appliances (Household)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Salvation Army 2) Recycling Information Center",
+      "Phone": "1) NA 2) 1-800-YES1-CAN",
+      "Website": "1) www.salvationarmy.com 2) http://www.aham.org/consumer/ht/d/sp/i/47286/pid/47286",
+      "Details and/or Restrictions": "1) Working appliances only 2) Call the Recycling Information Center for nearby metal recycling facilities that accept appliances"
+    },
+    {
+      "Material": "Baby bottles (plastic or glass)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Batteries (alkaline)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Alkaline batteries should be disposed of in regular refuse"
+    },
+    {
+      "Material": "Batteries (rechargeable)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm More locations listed at www.call2recycle.org."
+    },
+    {
+      "Material": "Batteries (lead acid)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Bicycles",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Working Bikes Cooperative",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "2434 S. Western Ave. Chicago IL 60608",
+      "Phone": "773-847-5440",
+      "Website": "www.workingbikes.org",
+      "Details and/or Restrictions": "Hours: Mon-Sat noon-5pm"
+    },
+    {
+      "Material": "Books (paperback)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Books (hard cover)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army 3) Reading Tree: Books for Charity",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com 3) www.readingtree.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Bras",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "The Bra Recyclers",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "3317 S. Higley Rd, Ste 114-441, Gilbert, AZ 85297",
+      "Phone": "480-988-2283",
+      "Website": "http://brarecycling.com",
+      "Details and/or Restrictions": "Should be in good condition"
+    },
+    {
+      "Material": "Brown Paper Bags",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    }
+    {
+      "Material": "Bubble Wrap",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Building Materials",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "The ReBuilding Exchange",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "3335 W. 47th St., Chicago IL 60632",
+      "Phone": "773-847-3761",
+      "Website": "http://www.rebuildingexchange.org/",
+      "Details and/or Restrictions": "Email info@rebuildingexchange.org to see if they'll accept your materials"
+    },
+    {
+      "Material": "Candy wrappers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "TerraCycle",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.terracycle.com",
+      "Details and/or Restrictions": "Must join a 'brigade' to get mailing details"
+    }
+    {
+      "Material": "Car batteries",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Cardboard",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    }
+    {
+      "Material": "Carpet (nylon)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Carpet Recovery 2) Shaw Carpet",
+      "Phone": "NA",
+      "Website": "1) www.carpetrecovery.org 2) shawfloors.com/about-shaw/carpetrecycling",
+      "Details and/or Restrictions": "1) NA 2) Any carpet (500sq yards or more) with EcoWorx backing will be collected, transported and recycled for free, regardless if its being replaced with Shaw Carpet. Shaw Carpet will collect, transport and recycle any type of carpet (7500sq yards or more) if it is being replaced by a Shaw product, for free."
+    },
+    {
+      "Material": "CDs",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Cell phones",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "1) Household Chemicals & Computer Recycling Facility (1150 N. North Branch St., Chicago IL 60642) 2) Earth911.com",
+      "Phone": "NA",
+      "Website": "1) www.cityofchicago.org/hccrf 2) www.earth911.com",
+      "Details and/or Restrictions": "1) Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm 2) Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Chip Bags",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "TerraCycle",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.terracycle.com",
+      "Details and/or Restrictions": "Must join a 'brigade' to get mailing details"
+    },
+    {
+      "Material": "Christmas/string lights",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Search for 'string lights'"
+    },
+    {
+      "Material": "Cleaning Products (bleach, drain cleaner, and other harsh cleaners)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Clothing",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army 3) Gaia 4) USAgain",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com 3) http://www.gaiamovement.org/TextPage.asp?TxtID=390&SubMenuItemID=103&MenuItemID=47 4) http://www.usagain.com/",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Compact Florescent Lightbulbs (CFLs)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Household Chemicals & Computer Recycling Facility (1150 N. North Branch St., Chicago IL 60642) 2) Home Depot 3) Ikea 4) True Value",
+      "Phone": "NA",
+      "Website": "1) www.cityofchicago.org/hccrf 2) www.homedepot.com 3) www.ikea.com 4) www.truevalue.com 5) www.acehardware.com",
+      "Details and/or Restrictions": "1) Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm 2) NA 3) NA 4) NA 5) NA"
+    },
+    {
+      "Material": "Computer",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Construction Debris",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Recycling Systems Incorporated",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "3152 South California Avenue, Chicago, IL 60608",
+      "Phone": "NA",
+      "Website": "www.recyclingsystemsinc.com",
+      "Details and/or Restrictions": "Call for a quote (773-579-0100). Construction debris can also be posted on Craigslist or the Construction Material Depot (www.cmdepot.com)"
+    },
+    {
+      "Material": "Corks",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Broadway Cellars (5900 N. Broadway) 2) Whole Foods",
+      "Phone": "NA",
+      "Website": "1) NA 2) www.wholefoods.com",
+      "Details and/or Restrictions": "1) NA 2) Visit website to find the nearest location"
+    },
+    {
+      "Material": "Crayons (broken)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Crazy Crayons",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.crazycrayons.com",
+      "Details and/or Restrictions": "Only accept crayons made in the United States"
+    },
+    {
+      "Material": "Diapers (cloth)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "1) Craigslist 2) FreeCycle",
+      "Phone": "NA",
+      "Website": "1) www.chicago.craigslist.org 2) www.freecycle.org",
+      "Details and/or Restrictions": "Consider selling on Craigslist or FreeCycle"
+    },
+    {
+      "Material": "Diapers (disposable)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Disposal diapers should be thrown away"
+    },
+    {
+      "Material": "Denim",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Drink Pouches",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "TerraCycle",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.terracycle.com",
+      "Details and/or Restrictions": "Must join a 'brigage' to get mailing details"
+    },
+    {
+      "Material": "DVDs",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Envelopes (including plastic windows)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Envelopes (Tyvek, FedEx, etc.)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Eyeglasses",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "1) Earth911.com 2) Lions Club International",
+      "Phone": "NA",
+      "Website": "1) www.earth911.com 2) http://www.lionsclubs.org/EN/ourwork/sight-programs/eyeglass-recycling/howyou-can-help.php",
+      "Details and/or Restrictions": "1) Check Earth911.com for the location nearest to you 2) Check website for the location nearest you"
+    },
+    {
+      "Material": "Feminine Hygiene Products",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "1) www.gladrags.com 2) www.divacup.com",
+      "Details and/or Restrictions": "Disposable feminine hygiene products should be thrown away. Explore the suggested websites for reusable alternatives."
+    },
+    {
+      "Material": "Food containers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "Accepted plastics include #1-5, 7 (not #6)"
+    },
+    {
+      "Material": "Freezers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "ComEd",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "1-888-806-227",
+      "Website": "https://www.comed.com/sites/homesavings/pages/appliancerecycling.aspx",
+      "Details and/or Restrictions": "ComEd is offering $35 per freezer or refrigerator. Offer only available for working appliances."
+    },
+    {
+      "Material": "Furniture",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Gift cards",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "1) Mail 2) Drop Off",
+      "Address": "1) Earthworks 2) Best Buy",
+      "Phone": "NA",
+      "Website": "1) www.earthworkssystem.com 2) www.bestbuy.com/recycling",
+      "Details and/or Restrictions": "1) NA 2) Best Buy has recycling kiosks for gift cards"
+    },
+    {
+      "Material": "Hotel Keys",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "1) Mail 2) Drop Off",
+      "Address": "1) Earthworks 2) Best Buy",
+      "Phone": "NA",
+      "Website": "1) www.earthworkssystem.com 2) www.bestbuy.com/recycling",
+      "Details and/or Restrictions": "1) NA 2) Best Buy has recycling kiosks for gift cards"
+    },
+    {
+      "Material": "Glass Bottles",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "Please remove lids from glass bottles before recycling"
+    },
+    {
+      "Material": "Glass Jars",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "Please remove lids from glass jars before recycling"
+    },
+    {
+      "Material": "Glasses (drinkware and dishware)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "Broken glasses (drinkware) and dishes should be thrown away"
+    },
+    {
+      "Material": "Grass",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Compost yard waste, like grass clippings"
+    },
+    {
+      "Material": "Household Appliances",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Salvation Army 2) Recycling Information Center",
+      "Phone": "1) NA 2) 1-800-YES1-CAN",
+      "Website": "1) www.salvationarmy.com",
+      "Details and/or Restrictions": "2) http://www.aham.org/consumer/ht/d/sp/i/47286/pid/47286, 1) Working appliances only 2) Call the Recycling Information Center for nearby metal recycling facilities that accept appliances
+    }
+    {
+      "Material": "Hangers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Many dry cleaners only accept hangers from their store, check before dropping off"
+    },
+    {
+      "Material": "Ink Cartridges",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "iPods",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Junk mail",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Keys",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Keys for Kindness Mail",
+      "Mail or Drop-Off Program?": "PO Box 201, Pearl River NY, 10965",
+      "Address": "NA",
+      "Phone": "www.keysforkindness.com",
+      "Website": "NA",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Kitty litter",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Kitty litter should be thrown away"
+    },
+    {
+      "Material": "Linens",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Magazines & catalogs",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Make-up containers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Origins",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) 111 N. State St, Chicago IL 2) 845 N. Michigan Ave., Chicago, IL",
+      "Phone": "1) 312-781-3010 2) 312-335-7911",
+      "Website": "www.origins.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Mattress",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Box Spring Mattress",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Medicine (prescription and over-the-counter)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Chicago Police Area Headquarters: a) 5101 S. Wentworth Ave., Chicago IL 60609 b) 727 E. 111th St., Chicago IL 60628 c) 2452 W. Belmont Ave, Chicago IL 60618 d) 3151 W. Harrison St., Chicago IL 60612 e) 5555 W. Grand Ave., Chicago IL 60639 2) Household Chemicals & Computer Recycling Facility (1150 N. North Branch St., Chicago IL 60642)",
+      "Phone": "NA",
+      "Website": "1) NA 2) www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "1) Open 24 hours a day, 7 days a week 2) Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Motor oil",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "MP3 players",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Newspapers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Newspaper sleeves",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Plastic bags, including newspaper sleeves, should be brought to your grocery store or pharmacy for recycling"
+    },
+    {
+      "Material": "Notebooks",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "If possible, remove metal spiral binding"
+    },
+    {
+      "Material": "Office paper",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Paint (oil based only)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Paint (latex)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Earth Paints Collection Systems",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "Multiple",
+      "Phone": "NA",
+      "Website": "www.earthpaintscs.com",
+      "Details and/or Restrictions": "Check their website for recycling fees"
+    },
+    {
+      "Material": "Paper towels (used)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Used paper towels should be thrown away. If lightly used, they can be composted."
+    },
+    {
+      "Material": "Paper towel rolls",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Pens",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Broken or old pens should be thrown away"
+    },
+    {
+      "Material": "Pencils",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Broken or old pencils should be thrown away"
+    },
+    {
+      "Material": "Pesticides",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tu 7-noon; Th 2-7pm, 1st Saturday of the month 8am - 3 pm"
+    },
+    {
+      "Material": "Phone books",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Phones (including cordless)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "Donate only working phones. Broken phones should be thrown away."
+    },
+    {
+      "Material": "Photographs",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Unwanted photographs should be thrown away."
+    },
+    {
+      "Material": "Plastics #1-5, 7",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Plastic #6 or unnumbered",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "#6 plastics and unnumbered plastics should be thrown away."
+    },
+    {
+      "Material": "Plastic Bags (for residents)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "PlasticBagRecycling.org",
+      "Phone": "NA",
+      "Website": "p://www.plasticbagrecycling.org/01.0/s01.1.p",
+      "Details and/or Restrictions": "Plastic shopping bags can be recycled at grocery stores, pharmacy's and many big box retailers"
+    },
+    {
+      "Material": "Plastic Bags (for businesses)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "1) PlasticBagRecycling.org 2) Better Containers, 530 Hyde Park, Hillside, IL 60162 3) G2 Revolution, 650 E. Algonquin Road, Suite 401, Schaumburg, IL 60173-3846",
+      "Phone": "1) NA 2) 800-831-6049 3) 847.925.9800",
+      "Website": "1) http://www.plasticbagrecycling.org/01.0/s01.1.php 2) http://www.bettercontainers.com/ 3) http://www.g2rev.com/",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Plastic Bottle Caps",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes (see notes)",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org (see notes: http://www.aveda.com/aboutaveda/caps.tmpl?ngextredir=1)",
+      "Details and/or Restrictions": "Bottle caps are only recyclable at some of the city's sorting facilities. To ensure caps are recycled, take them to a nearby Aveda store."
+    },
+    {
+      "Material": "Plastic Storage Bags",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Plastic storage bags should be thrown away after use"
+    },
+    {
+      "Material": "Plastic Wrap",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Plastic wrap should be thrown away after use"
+    },
+    {
+      "Material": "Pots and pans",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Qtips",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Qtips and other health products should be thrown away after use."
+    },
+    {
+      "Material": "Razors",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Preserve Products",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.preserveproducts.com",
+      "Details and/or Restrictions": "Purchase Preserve razors and mail back later. The handles are made from recycled #5 plastic and made into new products."
+    },
+    {
+      "Material": "Refrigerators",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "ComEd",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "1-888-806-227",
+      "Website": "https://www.comed.com/sites/homesavings/pages/appliancerecycling.aspx",
+      "Details and/or Restrictions": "ComEd is offering $35 per freezer or refrigerator. Offer only available for working appliances."
+    },
+    {
+      "Material": "Reusable Bags",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "ChicoBag",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "C/O Zero Waste Program, 349 Huss Drive, Chico, CA 95928",
+      "Phone": "NA",
+      "Website": "http://www.chicobag.com/trepurposing_program.aspx",
+      "Details and/or Restrictions": "For broken or no longer usable reusable bags"
+    },
+    {
+      "Material": "Rugs",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Sanitary products",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Sanitary products, like wipes, feminine products, diapers and incontinence pads, facial and toilet tissue, should be thrown away after use."
+    },
+    {
+      "Material": "Shoes",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army 3) Soles4Souls",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com 3) www.soles4souls.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Shopping bags (paper)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Shopping bags (plastic)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "All Chicago grocery stores are required to accept plastic shopping bags for recycling. Bags from other stores are also accepted."
+    },
+    {
+      "Material": "Silverware (metal)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Silverware (plastic)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Plastic silverware can be rinsed and reused, or thrown away after use"
+    },
+    {
+      "Material": "Snackbag liners",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Plastic snackbag liners should be thrown away"
+    },
+    {
+      "Material": "Spray paint (empty)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Spray paint (not empty)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Consider donating unused spray paint to a school or local art program"
+    },
+    {
+      "Material": "Steel cans",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Styrofoam (#6 Foam)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Dart",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "310 Evergreen Drive, North Aurora, IL",
+      "Phone": "NA",
+      "Website": "http://www.dart.biz/web/environ.nsf/pages/d",
+      "Details and/or Restrictions": "Accept all foam except packing peanuts Check with your closest pack-and-ship store (Mailboxes Etc., UPS) to drop off"
+    },
+    {
+      "Material": "Televisions (working or broken; LCD, Plasma, and CRT)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Household Chemicals & Computer Recycling Facility",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1150 N. North Branch St., Chicago IL 60642",
+      "Phone": "NA",
+      "Website": "www.cityofchicago.org/hccrf",
+      "Details and/or Restrictions": "Hours: Tuesday 7am-noon; Thursdays 2-7pm, 1st Saturday of the month 8am-3pm"
+    },
+    {
+      "Material": "Tennis balls",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Rebounces",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.rebounces.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Text Books",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Reading Tree: Books for Charity",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "http://www.readingtree.org/content.aspx?id=1",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Textiles (household)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "USAgain",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "http://www.usagain.com/",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Tires",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Some locations may charge per tire -call before making the trip"
+    },
+    {
+      "Material": "Toilet paper roll",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Toothbrush",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Preserve Products",
+      "Mail or Drop-Off Program?": "Mail",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.preserveproducts.com",
+      "Details and/or Restrictions": "Purchase Preserve toothbrushes and mail back later. The handles are made from recycled yogurt containers and made into new products"
+    },
+    {
+      "Material": "Toys",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Umbrellas",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "Working umbrellas only"
+    },
+    {
+      "Material": "Video tapes",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off and Mail",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Check Earth911.com for the location nearest to you"
+    },
+    {
+      "Material": "Vehicles",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop off",
+      "Address": "Earth911.com",
+      "Phone": "NA",
+      "Website": "www.earth911.com",
+      "Details and/or Restrictions": "Working vehicles can be donated"
+    },
+    {
+      "Material": "Waterbottles (reusable)",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "Multiple",
+      "Mail or Drop-Off Program?": "Drop Off",
+      "Address": "1) Goodwill 2) Salvation Army",
+      "Phone": "NA",
+      "Website": "1) www.goodwill.com 2) www.salvationarmy.com",
+      "Details and/or Restrictions": "NA"
+    },
+    {
+      "Material": "Wipes and sponges",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Wipes and sponges should be thrown away after use"
+    },
+    {
+      "Material": "Wrapping paper",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "Yes",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "www.chicagorecycles.org",
+      "Details and/or Restrictions": "Be sure to remove bows, tags, and ribbon"
+    },
+    {
+      "Material": "Zippered bags",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Zippered bags can be reused and thrown away"
+    },
+    {
+      "Material": "Zippers",
+      "Is Material accepted in Chicago's Blue Cart Program or at Recycling Drop-Off Centers?": "No",
+      "Alternative Recycling Outlet": "NA",
+      "Mail or Drop-Off Program?": "NA",
+      "Address": "NA",
+      "Phone": "NA",
+      "Website": "NA",
+      "Details and/or Restrictions": "Zippers should be thrown away"
+    }
+  ]
+}
